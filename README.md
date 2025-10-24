@@ -1,9 +1,9 @@
-# 🚴 Divvy Case Study — Google Data Analytics Capstone  
+# 🚴 Divvy Case Study 
 
 ### 🧭 Project Description  
-This project analyzes **12 months of Divvy (Cyclistic) bike-share data** to understand how **annual members** and **casual riders** use the service differently — and identify actionable strategies to **convert casual riders into annual members**.  
+This project analyzes **12 months of Divvy bike-share data** to understand how **annual members** and **casual riders** use the service differently — and identify actionable strategies to **convert casual riders into annual members**.  
 
-Cyclistic operates Chicago’s bike-share system with **5,800+ bikes** and **600+ docking stations**. Using **SQL in Google BigQuery** and **Looker Studio visualizations**, this analysis explores ride duration, frequency, and seasonal patterns to help the company grow its annual memberships and improve customer retention.  
+Divvy operates Chicago’s bike-share system with **5,800+ bikes** and **600+ docking stations**. Using **SQL in Google BigQuery** and **Looker Studio visualizations**, this analysis explores ride duration, frequency, and seasonal patterns to help the company grow its annual memberships and improve customer retention.  
 
 ---
 
@@ -46,7 +46,6 @@ Cyclistic operates Chicago’s bike-share system with **5,800+ bikes** and **600
 ### 🔹 Summary Statistics  
 | Metric | Value (minutes) |
 |:--|:--:|
-| **Minimum Ride Length** | 0.0 |
 | **Maximum Ride Length** | 1509.37 |
 | **Average Ride Length** | 15.48 |
 
@@ -125,32 +124,3 @@ Both groups peak during summer months (June–September), but members maintain s
 3. **Commuter Campaigns:** Highlight savings and convenience for regular weekday riders.  
 4. **Local Partnerships:** Bundle memberships with hotels, events, and tourist attractions.  
 5. **Loyalty Rewards:** Incentivize frequent casual riders to upgrade through milestone rewards.
-
----
-
-## 🚀 Outcome  
-
-- Cleaned and analyzed **5.7M ride records** using SQL in BigQuery.  
-- Built **five core visualizations** in Looker Studio.  
-- Delivered **data-backed marketing insights** to increase annual memberships.  
-
----
-
-## 🧠 Skills Demonstrated  
-- Data Cleaning (SQL / BigQuery)  
-- Data Aggregation & Transformation  
-- Descriptive Analysis  
-- Looker Studio Dashboard Design  
-- Data Storytelling & Visualization  
-
----
-
-## 🧾 License  
-Data © Motivate International Inc. — provided under an open data license.  
-
----
-
-## 👤 Author  
-**Sanketh Reddy**  
-🎓 B.S. Computer Science — University of Kansas  
-🔗 [LinkedIn](YOUR_LINKEDIN_URL) | [Looker Dashboard](YOUR_LOOKER_LINK_HERE) | [GitHub](https://github.com/sanketh-reddy)
