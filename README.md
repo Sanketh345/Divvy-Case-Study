@@ -77,32 +77,33 @@ Divvy operates Chicago’s bike-share system with **5,800+ bikes** and **600+ do
 ## 📊 Visualizations  
 
 ### 🟦 1️⃣ Average Ride Length by Rider Type
-![Average Ride Length](visuals/avg_ride_length_by_type.png)  
+![Average Ride Length by Rider Type](Visuals/avg_ride_length_by_type.png)  
 Casual riders take longer rides compared to members, suggesting more leisure-oriented usage.
 
 ---
 
 ### 🟩 2️⃣ Total Rides by Rider Type
-![Total Rides](visuals/total_rides_by_type.png)  
+![Total Rides by Rider Type](Visuals/total_rides_by_type.png)  
 Members take significantly more rides overall, reflecting regular commuting patterns.
 
 ---
 
 ### 🟨 3️⃣ Average Ride Length by Day of Week
-![Average Ride Length by Day](visuals/avg_ride_length_by_day.png)  
+![Average Ride Length by Day](Visuals/avg_ride_length_by_day.png)  
 Ride duration peaks on weekends — especially for casual riders — indicating higher leisure use.
 
 ---
 
 ### 🟥 4️⃣ Total Rides by Day of Week
-![Total Rides by Day](visuals/total_rides_by_day.png)  
+![Total Rides by Day](Visuals/total_rides_by_day.png)  
 Members dominate weekday rides, while casual users surge on weekends.
 
 ---
 
 ### 🟪 5️⃣ Monthly Ride Trends by Rider Type
-![Monthly Ride Trends](visuals/monthly_ride_trends_by_user_type.png)  
+![Monthly Ride Trends by Rider Type](Visuals/monthly_ride_trends_by_user_type.png)  
 Both groups peak during summer months (June–September), but members maintain steadier year-round activity.
+
 
 ---
 
